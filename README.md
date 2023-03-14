@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 💻 Full Stack Software Engineer ⌨️ \
 🎓 General Assembly Software Engineering Immersive Grad \
 🎮 Gamer \
-✉️ Contact Me : thekendallgibbons@gmail.com \
+✉️ Contact Me : thekendallgibbons@gmail.com
 
 I am an adaptable, resourceful, team-oriented Software Engineer who is committed to seeing projects through to completion. In my previous experience as part of a Postal service team, I gained experience collaborating cross-functionally with team members in other departments, and I believe the team-orientation skills I’ve gained will serve as an asset in a software engineering role. As an engineer, I am committed to breaking down complex code, rebuilding it functionally, and contributing solutions to an innovative team. 
